@@ -5,7 +5,7 @@ I have recently learned Kotlin as well. About 1 year of experience.
 
 I have about 3 years in creating Android apps as well. UI Creation with XML/Jetpack Compose, RXJava, Kotlin etc
 
-I have always loved dabbling in code from C#, PHP, Javascript, Typescript, Python, Kotlin and a little bit of Dart. 
+I have always loved dabbling in code from C#, PHP, Javascript, Typescript, Python and a little bit of Dart. 
 
 My primary focus is Kotlin & Java though.
 
