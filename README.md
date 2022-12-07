@@ -9,3 +9,6 @@ I have always loved dabbling in code from C#, PHP, Javascript, Typescript, Pytho
 
 My primary focus is Kotlin & Java though.
 
+Have a project idea you want created in Kotlin or Java? Email me: nobilitydev@protonmail.com
+We can discuss prices.
+
